@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/purecode/static/css/main.271293ad.css",
+    "main.js": "/purecode/static/js/main.a06883a4.js",
+    "static/js/787.0420ccf9.chunk.js": "/purecode/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/purecode/index.html",
+    "main.271293ad.css.map": "/purecode/static/css/main.271293ad.css.map",
+    "main.a06883a4.js.map": "/purecode/static/js/main.a06883a4.js.map",
+    "787.0420ccf9.chunk.js.map": "/purecode/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.271293ad.css",
+    "static/js/main.a06883a4.js"
+  ]
+}
